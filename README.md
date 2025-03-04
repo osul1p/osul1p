@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Santiago Perez Delfino</h1>
 <h3 align="center">A passionate Game/Web developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Post Mors, UTN, and OtherSide Game**
+- 🔭 I’m currently working on **uTriper**
 
-- 🌱 I’m currently learning **Game Development from Scratch**
+- 🌱 I’m currently learning **Game Development and Web Development**
 
-- 👨‍💻 All of my projects are available at [https://p1luso.vercel.app/](https://p1luso.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://santiagoperezdelfino.com](https://santiagoperezdelfino.com/)
 
-- 💬 Ask me about **Games, or to participate in a Game Jam**
+- 💬 Ask me about **Games, making a interesting project, or to participate in a Game Jam**
 
 - 📫 How to reach me **santiagoperezdelfino@gmail.com**
 
-- 📄 Know about my experiences [I am working for UTN as a Software Developer, and I am learning more and more about Web Development](I am working for UTN as a Software Developer, and I am learning more and more about Web Development)
+- 📄 Know about my experiences [I am working for uTriper as a Fullstack Developer, and I am always learning more about Game Development!](I am working for uTriper as a Fullstack Developer, and I am always learning more about Game Development!)
 
-- ⚡ Fun fact **I am working in Web Development because I can't find work as a Video Game Developer. But I realized that I like it too**
+- ⚡ Fun fact **I am working in Web Development because I can't find work as a Game Developer. But I realized that I like it too**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
